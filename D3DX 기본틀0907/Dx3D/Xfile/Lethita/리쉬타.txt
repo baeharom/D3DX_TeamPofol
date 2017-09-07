@@ -1,0 +1,116 @@
+town_idle_lower - 120 마을 대기 5041 ~ 5161
+
+town_run_begin - 34 마을 달리기 begin 5006 ~ 5040
+
+town_run_lower- 39 마을 달리는중 4966 ~ 5005
+
+town_run_end - 119 마을 달리기 end 4846 ~ 4965
+
+battle_idle_lower - 61 전투 대기 4784 ~ 4845
+
+battle_run_lower - 45 전투 달리기 4738 ~ 4783
+
+battle_run_sprint - 37 전투 빨리달리기 4700 ~ 4737
+
+battle_run_sprint_stop_minigame - 53 달리다가멈출때모션 4646 ~ 4699
+
+sp_fever - 126 제자리 스메쉬 4519 ~ 4645
+
+speedymove_attack - 89 달리다가 스메쉬 4429 ~ 4518
+
+dash_E - 51  캐릭터로부터 오른쪽대쉬 4377 ~ 4428
+
+dash_N - 51 캐릭터로부터 앞으로 대쉬 4325 ~ 4376
+
+dash_S - 51 캐릭터로부터 뒤로 대쉬 4273 ~ 4324
+
+dash_W - 51 캐릭터로부터 왼쪽대쉬 4221 ~ 4272
+
+windmill - 123 누워있는 상태에서 윈드밀하면서 일어남 4097 ~ 4220
+
+battle_attack_01 - 76 1타공격 4020 ~ 4096
+
+battle_attack_02 - 71 2타공격 3948 ~ 4019
+
+battle_attack_03 - 76 3타공격 3871 ~ 3947
+
+battle_attack_04 - 82 4타공격 3788 ~ 3870
+
+battle_attack_strong_01 - 83 1타스메쉬 3704 ~ 3787
+
+battle_attack_strong_02 - 87 2타스메쉬 3616 ~ 3703
+
+battle_attack_strong_03 - 82 3타스메쉬 3533 ~ 3615
+
+battle_attack_strong_04_normal_finish - 92 4타스메쉬 3436 ~ 3532
+
+battle_attack_strong_02b - 91 2타스메쉬 추가타 3344 ~  3435
+
+battle_attack_strong_04b - 151 4타스메쉬 추가타  3192 ~ 3343
+
+gliding_fury - 149 글라이딩퓨리 3042 ~ 3191
+
+gliding_fury_a - 126 궁극기 count 글라이딩퓨리 즉발사용 2915 ~ 3041
+
+damage_light_front - 50 캐릭터 기준에서 앞으로 맞고 버틸때 2864 ~ 2914
+
+damage_light_back - 50 캐릭터 기준에서 뒤통수 맞고 버틸때 2813 ~ 2863
+
+damage_light_left - 50 캐릭터 기준에서 왼쪽에서 맞고 버틸때 2762 ~ 2812
+
+damage_light_right - 50 캐릭터 기준에서 오른쪽에서 맞고 버틸때 2711 ~ 2761
+
+damage_launch_begin - 8 아래에서공격이 올라와서 맞고 공중에 오르는 순간 2702 ~ 2710
+
+damage_launch_during - 29 공중상태에서 틀어지는 모션 2672 ~ 2701
+
+damage_launch_down - 74 공중에서 아래로 떨어져 바닥에 떨어짐 2597 ~ 2671
+
+dead_back - 91 보스가 뒤통수 때려서 죽을때 2505 ~ 2596
+
+dead_front - 91 보스한테 정면으로 맞고 죽을때 2413 ~ 2504
+
+dead_resist - 126 행동불능버티기 또는 큰공격 버티기 2286 ~ 2412
+
+down_back_idle - 91 뒤로 누워있는모션 2194 ~ 2285
+
+down_back_roll_front 61 뒤로 누워있는모션에서 앞으로 구르기 2132 ~ 2193
+
+down_back2idle - 59 뒤로 누워있는모션에서 제자리 일어나기 2072 ~ 2131
+
+down_front_idle - 91 앞으로 누워있는모션 1980 ~ 2071
+
+down_front_roll_front - 61 벌러덩하고 앞으로 구르기 1918 ~ 1979
+
+down_front2idle - 61 앞으로 누워있는모션에서 제자리 일어나기 1856 ~ 1917
+
+dark_knight_transformation_begin_1 - 420 다크나이트 1차변신모션 1435 ~ 1855
+
+falling - 61 공중부양시작 1373 ~ 1434
+
+falling_during - 61 공중부양상태 1311 ~ 1372
+
+falling_end_damage - 101 공중부양 착지 1209 ~ 1310
+
+feather_phoenix - 301 부활깃사용 907 ~ 1208
+
+frag_thrower_aim_begin_with_holding - 창던지기 시작모션 854 ~ 906
+
+frag_thrower_aim_during - 창던지기 대기중 모션 793 ~ 853
+
+frag_thrower_aim_end -87 창던져 705 ~ 792
+
+frag_thrower_cancel - 61 창던지기 취소 643 ~ 704
+
+kadan_finish - 353 카단즉사기맞을때 289 ~ 642
+
+emo_dance - 287 춤추기 0 ~ 288
+
+//////////////넣으려다 제외////////////////
+battle_attack_run_sprint - 64
+
+battle_attack_strong_00 - 70
+
+
+battle_run_push - 111 = 돌밀기
+
